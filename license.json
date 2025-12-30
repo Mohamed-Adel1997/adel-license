@@ -1,7 +1,7 @@
 {
   "Karim": {
     "enabled": true,
-    "deviceId": "هنا قيمة Device ID اللي ظهرت للمستخدم"
+    "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   },
   "Mona": {
     "enabled": true
