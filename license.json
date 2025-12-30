@@ -4,11 +4,11 @@
     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   },
   "Mona": {
-    "enabled": true
-     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
+    "enabled": true,
+    "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   },
   "Anu": {
-    "enabled": true
-     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
+    "enabled": true,
+    "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   }
 }
