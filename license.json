@@ -1,5 +1,5 @@
 {
-  "Karim": {
+  "Adel": {
     "enabled": true,
     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   },
@@ -8,6 +8,10 @@
     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   },
   "Anu": {
+    "enabled": true,
+    "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
+    },
+  "Karim": {
     "enabled": true,
     "deviceId": "نسخ Device ID اللي ظهر في البرنامج"
   }
