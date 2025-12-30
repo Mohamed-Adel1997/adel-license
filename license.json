@@ -1,11 +1,10 @@
 {
   "Karim": {
     "enabled": true,
-    "deviceId": "اكتب هنا DeviceId اللي هيظهر لك عند أول تشغيل"
+    "deviceId": "هنا قيمة Device ID اللي ظهرت للمستخدم"
   },
   "Mona": {
-    "enabled": true,
-    "deviceId": "DeviceId بتاعها"
+    "enabled": true
   },
   "Anu": {
     "enabled": true
